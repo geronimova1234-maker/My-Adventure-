@@ -1,0 +1,1 @@
+To open the file you need to enter to Construct3.net and open his editor, then, you need to drag de .c3p file in the page, and that is it! you can view all assets and code of my adventure, official page of my adventure to download it: https://geronimovalenzulea.itch.io/my-adventure
